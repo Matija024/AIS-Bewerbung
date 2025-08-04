@@ -1,0 +1,2636 @@
+{
+  "buildings_analyzed": 7,
+  "missing_installations": {
+    "15859": {
+      "existing_installations": [
+        "Abscheider, Sperren Fettabscheider",
+        "Abscheider, Sperren Heizölsperre",
+        "Abscheider, Sperren Öl-/Wassertrenner",
+        "Abwasserbehandlunganlagen Neutralisationsanlage",
+        "Abwasserleitungsanlagen Abwasserleitungsanlage",
+        "Außenbeleuchtungseinrichtungen Außenbel.einr. ortsf. Leuchten",
+        "Blitzschutz-/Erdungsanlage Blitzschutz/Erdung Gebäude",
+        "Brandschutzklappen Brandschutzklappen",
+        "Elektroakustische Anlagen Beschallungsanlage",
+        "Elektroakustische Anlagen Wechsel- / Gegensprechanlage",
+        "Fassadenaufzüge Fassadenaufzug",
+        "Fernwärmeheizungsanlagen Fernwärmeheizungsanlage",
+        "Feuer-/Rauchschutzabschlüsse Feuer-/Rauchschutz-TÜR",
+        "Feuerlöschschläuche/-armaturen Feuerlöscharmaturen",
+        "Feuerlöschschläuche/-armaturen Feuerlöschschläuche",
+        "Gasversorgungseinrichtungen Gasleitungsanlage, Erdgas",
+        "Gebäude-/ Raumüberwachungsanlage Fernbeobachtungseinrichtung",
+        "Gefahrenmeldeanlagen Brandfrühesterkennungsanlage",
+        "Gefahrenmeldeanlagen Brandmeldeanlage",
+        "Gefahrenmeldeanlagen Einbruch-/Überfallmeldeanlage",
+        "Gemeinschaftsverpfleg.einr., sonstige Miniküche/Teeküche",
+        "Hebeanlagen/Entwässerungspumpen Abwasserhebeanlage",
+        "Hebeanlagen/Entwässerungspumpen Entwässerungspumpen, ortsfest",
+        "Hebeanlagen/Entwässerungspumpen Fäkalienhebeanlage",
+        "Hebebühnen Hebebühne, ortsfest",
+        "Heizgeräte Heizgerät, ortsfest",
+        "Heizungsanlagen Heizungsanlage",
+        "Hydrantenanlagen Hydrantenanlage",
+        "IZS-Komponenten Flucht- /Liefertür",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale IDT",
+        "IZS-Zutrittskontrollzentrale ZKZ-EZS",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Krane Laufkatzenanlage",
+        "Küchen-/Kochgeräte Geschirrspülmaschine, Haushalt",
+        "Kühleinrichtungen Kühlgeräte",
+        "Ladesäulen AC-Ladesäule",
+        "Lüftungsanlagen Abluftanlage",
+        "Lüftungsanlagen Lüftungsanlage mit Heizung",
+        "Lüftungsanlagen Schutzraumlüft. mit Sandfilter",
+        "Lüftungsanlagen Zu-/Abluftanlage",
+        "Medizinische Geräte und Hilfsmittel Erste-Hilfe-Verbandskasten",
+        "Meldeeinrichtungen, sonstige Wasserwarnanlage",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "Personen-/Lastenaufzüge Lastenaufzug",
+        "Personen-/Lastenaufzüge Personenaufzug",
+        "RWA-Anlagen RWA-Anlagen",
+        "Sicherheitsbeleuchtung; Anlagen Sicherheitsbeleuchtung",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsfest",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsveränd",
+        "Splitklimageräte Splitklimagerät",
+        "Splitklimageräte mobiles Splitklimagerät",
+        "Steig- und Anschlageinrichtungen Steigleiter",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "Teilklimaanlagen TK mit Kälte, Heizung, Befeuch",
+        "Teilklimaanlagen Teilklima mit Kälte u. Heizg.",
+        "Warenverkaufseinrichtungen Getränkeschank-und-zapfanlage",
+        "Wasserdruckerhöhungsanlagen Wasserdruckerhöhungsanlage",
+        "Wassererwärmungsgeräte ortsfest Gerät, elektrisch beheizt",
+        "Wassergewinnungsanlagen Brunnen",
+        "Wassergewinnungsanlagen Zisterne",
+        "Wasserspeicherungsanlagen Wasserspeicherungsanlage",
+        "Wasserverteilanlagen Wasserverteilanlage",
+        "Zeitdiensteinrichtungen Uhrenanlagen, Zeiterfassungssy",
+        "Zu-/Abluftgeräte Abluftgerät",
+        "autarke Zutrittsanlagen autarke Zutrittsanlagen",
+        "besondere Einrichtungen Behinderten-WC",
+        "besondere Einrichtungen Dachrinnen-, Rohrbegleitheiz.",
+        "besondere Einrichtungen Rundfunkempfangsantennenanlage",
+        "kraftbetätigte Einrichtungen Schranke, Tor, Tür, Rollgitter",
+        "kraftbetätigte Einrichtungen Sonnenschutz, außen",
+        "sonstige Wassertechnische Einrichtungen Systemtrenner",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht",
+        "übergeordneter Schaltschrank übergeordneter Schaltschrank"
+      ],
+      "existing_mapped_installations": [
+        "Fettabscheider",
+        "Schrankenanlage",
+        "Abwassersammelanlage",
+        "Abwasserleitungen",
+        "Außenbeleuchtung",
+        "Blitzschutzanlage",
+        "Brandschutzklappe",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+        "Handfeuerlöscher",
+        "Handfeuerlöscher",
+        "Gasleitungsnetz",
+        "Brandmeldeanlage",
+        "Brandmeldeanlage",
+        "Einbruchmeldeanlage",
+        "Löschwasseranlage (nass-trocken)",
+        "Hebeanlage",
+        "Heizkörper",
+        "Heizkörper",
+        "Handfeuerlöscher",
+        "Umluftkühlgerät",
+        "Abluftanlage",
+        "Wassererwärmungsanlage",
+        "Zu- und Abluftanlage",
+        "Abwasserleitungen",
+        "Lastenaufzug",
+        "Personenaufzug",
+        "Sicherheitsbeleuchtungsanlage",
+        "Sicherheitsbeleuchtungsanlage",
+        "Sicherheitsbeleuchtungsanlage",
+        "Druckerhöhungsanlage für Löschwasseranlage",
+        "Wassererwärmungsanlage",
+        "Brunnenanlage",
+        "Löschwasseranlage (nass-trocken)",
+        "Wasseraufbereitungsanlage (Dosierung)",
+        "Wasseraufbereitungsanlage (Dosierung)",
+        "Abluftanlage",
+        "Sonnenschutzanlage"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Niederspannungshauptverteiler",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Automationssystem",
+        "Tritte / Leitern",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Falt- und Schiebewand",
+          "correlated_with": "Abwassersammelanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Uhrenanlage",
+          "correlated_with": "Abwassersammelanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "correlated_with": "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "correlated_with": "Sicherheitsbeleuchtungsanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "correlated_with": "Brandmeldeanlage",
+          "correlation": 0.8749672939989045
+        },
+        {
+          "installation": "Automationssystem",
+          "correlated_with": "Brandschutzklappe",
+          "correlation": 0.8703882797784894
+        },
+        {
+          "installation": "Abläufe",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Rohrleitungen",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Innentor",
+          "correlated_with": "Brunnenanlage",
+          "correlation": 0.802772971919486
+        },
+        {
+          "installation": "Wasseraufbereitungsanlage (Enthärtung)",
+          "correlated_with": "Wasseraufbereitungsanlage (Dosierung)",
+          "correlation": 0.7679476477883045
+        },
+        {
+          "installation": "Sprinkleranlage",
+          "correlated_with": "Fettabscheider",
+          "correlation": 0.7474093186836597
+        },
+        {
+          "installation": "Management-Ebene",
+          "correlated_with": "Brandschutzklappe",
+          "correlation": 0.727606875108999
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Falt- und Schiebewand",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Abwassersammelanlage",
+          "verbandsnummer": "346.01.01.000.02.00"
+        },
+        {
+          "installation": "Uhrenanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Abwassersammelanlage",
+          "verbandsnummer": "453.01.01.000.00.00"
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "verbandsnummer": "411.04.04.000.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Sicherheitsbeleuchtungsanlage",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.8749672939989045,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.87) mit Brandmeldeanlage",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.8703882797784894,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.87) mit Brandschutzklappe",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Innentor",
+          "probability": 0.802772971919486,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Brunnenanlage",
+          "verbandsnummer": "334.03.01.026.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    },
+    "18925": {
+      "existing_installations": [
+        "Abwasserleitungsanlagen Abwasserleitungsanlage",
+        "Außenbeleuchtungseinrichtungen Außenbel.einr. ortsf. Leuchten",
+        "Blitzschutz-/Erdungsanlage Blitzschutz/Erdung Gebäude",
+        "Feuer-/Rauchschutzabschlüsse Feuer-/Rauchschutz-TÜR",
+        "Hebeanlagen/Entwässerungspumpen Abwasserhebeanlage",
+        "Heizungsanlagen Heizungsanlage",
+        "IZS-Komponenten Flucht- /Liefertür",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale IDT",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "Steig- und Anschlageinrichtungen Dachbodenleiter, handbetätigt",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "Wassererwärmungsgeräte ortsfest Gerät, elektrisch beheizt",
+        "Wasserverteilanlagen Wasserverteilanlage",
+        "Zu-/Abluftgeräte Abluftgerät",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht"
+      ],
+      "existing_mapped_installations": [
+        "Abwasserleitungen",
+        "Außenbeleuchtung",
+        "Blitzschutzanlage",
+        "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+        "Löschwasseranlage (nass-trocken)",
+        "Heizkörper",
+        "Handfeuerlöscher",
+        "Abwasserleitungen",
+        "Wassererwärmungsanlage",
+        "Wasseraufbereitungsanlage (Dosierung)",
+        "Abluftanlage"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Personenaufzug",
+        "Niederspannungshauptverteiler",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "Sicherheitsbeleuchtungsanlage",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Hebeanlage",
+        "Sonnenschutzanlage",
+        "Automationssystem",
+        "Tritte / Leitern",
+        "Brandmeldeanlage",
+        "Brandschutzklappe",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Neutralisationsanlage",
+          "correlated_with": "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Abläufe",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Rohrleitungen",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wasseraufbereitungsanlage (Enthärtung)",
+          "correlated_with": "Wasseraufbereitungsanlage (Dosierung)",
+          "correlation": 0.7679476477883045
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "verbandsnummer": "411.04.04.000.00.00"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Personenaufzug",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "461.01.01.000.01.09"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Sicherheitsbeleuchtungsanlage",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "445.02.01.235.00.00"
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Wasseraufbereitungsanlage (Enthärtung)",
+          "probability": 0.7679476477883045,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.77) mit Wasseraufbereitungsanlage (Dosierung)",
+          "verbandsnummer": "412.02.01.000.02.01"
+        },
+        {
+          "installation": "Hebeanlage",
+          "probability": 0.71875,
+          "reason": "frequency",
+          "details": "Kommt in 71.9% aller Gebäude vor",
+          "verbandsnummer": "411.05.01.012.04.01"
+        },
+        {
+          "installation": "Sonnenschutzanlage",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "338.01.01.159.02.00"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Brandmeldeanlage",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "456.01.01.202.02.00"
+        },
+        {
+          "installation": "Brandschutzklappe",
+          "probability": 0.625,
+          "reason": "frequency",
+          "details": "Kommt in 62.5% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.053.00.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Fernwärmeübergabestation - Heißwasser",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "421.02.01.000.00.01"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    },
+    "21083": {
+      "existing_installations": [
+        "Abwasserbehandlunganlagen Neutralisationsanlage",
+        "Abwasserleitungsanlagen Abwasserleitungsanlage",
+        "Außenbeleuchtungseinrichtungen Außenbel.einr. ortsf. Leuchten",
+        "Blitzschutz-/Erdungsanlage Blitzschutz/Erdung Gebäude",
+        "Brandschutzklappen Brandschutzklappen",
+        "Druckbehälter, prüfpflichtig Ausdehnungsgefäß",
+        "Elektroakustische Anlagen Beschallungsanlage",
+        "Feuer-/Rauchschutzabschlüsse Feuer-/Rauchschutz-TÜR",
+        "Gasversorgungseinrichtungen Gasleitungsanlage, Erdgas",
+        "Hebeanlagen/Entwässerungspumpen Entwässerungspumpen, ortsfest",
+        "Heizungsanlagen Heizungsanlage",
+        "IZS-Komponenten Flucht- /Liefertür",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale IDT",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Krane Laufkatzenanlage",
+        "Lüftungsanlagen Schutzraumlüft. ohne Sandfilt.",
+        "Lüftungsanlagen Zu-/Abluftanlage",
+        "Medizinische Geräte und Hilfsmittel Erste-Hilfe-Verbandskasten",
+        "Meldeeinrichtungen, sonstige Gasmeldeanlage sonstige",
+        "Meldeeinrichtungen, sonstige Tür-Klingel-/Sprech-/Videoanl",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "RWA-Anlagen RWA-Anlagen",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsveränd",
+        "Steig- und Anschlageinrichtungen Steigleiter",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "Ventilatoren Deckenventilator",
+        "Wasseraufbereitungsanlagen Enthärtungsanlage",
+        "Wassererwärmungsgeräte ortsfest Gerät, elektrisch beheizt",
+        "Wasserverteilanlagen Wasserverteilanlage",
+        "autarke Zutrittsanlagen autarke Zutrittsanlagen",
+        "besondere Einrichtungen Dachrinnen-, Rohrbegleitheiz.",
+        "sonstige Wassertechnische Einrichtungen Automatische Spüleinrichtung",
+        "sonstige Wassertechnische Einrichtungen Systemtrenner",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht"
+      ],
+      "existing_mapped_installations": [
+        "Abwassersammelanlage",
+        "Abwasserleitungen",
+        "Außenbeleuchtung",
+        "Blitzschutzanlage",
+        "Brandschutzklappe",
+        "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+        "Gasleitungsnetz",
+        "Heizkörper",
+        "Handfeuerlöscher",
+        "Zu- und Abluftanlage",
+        "Abwasserleitungen",
+        "Sicherheitsbeleuchtungsanlage",
+        "Wasseraufbereitungsanlage (Enthärtung)",
+        "Wassererwärmungsanlage",
+        "Wasseraufbereitungsanlage (Dosierung)"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Personenaufzug",
+        "Niederspannungshauptverteiler",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "Abluftanlage",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Hebeanlage",
+        "Sonnenschutzanlage",
+        "Automationssystem",
+        "Tritte / Leitern",
+        "Brandmeldeanlage",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Falt- und Schiebewand",
+          "correlated_with": "Abwassersammelanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Uhrenanlage",
+          "correlated_with": "Abwassersammelanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "correlated_with": "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "correlated_with": "Sicherheitsbeleuchtungsanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Automationssystem",
+          "correlated_with": "Brandschutzklappe",
+          "correlation": 0.8703882797784894
+        },
+        {
+          "installation": "Abläufe",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Rohrleitungen",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Management-Ebene",
+          "correlated_with": "Brandschutzklappe",
+          "correlation": 0.727606875108999
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Falt- und Schiebewand",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Abwassersammelanlage",
+          "verbandsnummer": "346.01.01.000.02.00"
+        },
+        {
+          "installation": "Uhrenanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Abwassersammelanlage",
+          "verbandsnummer": "453.01.01.000.00.00"
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "verbandsnummer": "411.04.04.000.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Sicherheitsbeleuchtungsanlage",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Personenaufzug",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "461.01.01.000.01.09"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Abluftanlage",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "431.01.01.000.00.01"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.8703882797784894,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.87) mit Brandschutzklappe",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Management-Ebene",
+          "probability": 0.727606875108999,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.73) mit Brandschutzklappe",
+          "verbandsnummer": "483.01.01.000..01"
+        },
+        {
+          "installation": "Hebeanlage",
+          "probability": 0.71875,
+          "reason": "frequency",
+          "details": "Kommt in 71.9% aller Gebäude vor",
+          "verbandsnummer": "411.05.01.012.04.01"
+        },
+        {
+          "installation": "Sonnenschutzanlage",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "338.01.01.159.02.00"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Brandmeldeanlage",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "456.01.01.202.02.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Fernwärmeübergabestation - Heißwasser",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "421.02.01.000.00.01"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    },
+    "22225": {
+      "existing_installations": [
+        "Abscheider, Sperren Heizölsperre",
+        "Abwasserbehandlunganlagen Neutralisationsanlage",
+        "Abwasserleitungsanlagen Abwasserleitungsanlage",
+        "Außenbeleuchtungseinrichtungen Außenbel.einr. ortsf. Leuchten",
+        "Blitzschutz-/Erdungsanlage Blitzschutz/Erdung Gebäude",
+        "Druckbehälter, prüfpflichtig Ausdehnungsgefäß",
+        "Feuer-/Rauchschutzabschlüsse Feuer-/Rauchschutz-TÜR",
+        "Gasversorgungseinrichtungen Gasleitungsanlage, Erdgas",
+        "Gefahrenmeldeanlagen Brandmeldeanlage",
+        "Gemeinschaftsverpfleg.einr., sonstige Miniküche/Teeküche",
+        "Gleichstromanlagen Gleichstromversorgung ortsfest",
+        "Hebeanlagen/Entwässerungspumpen Entwässerungspumpen, ortsfest",
+        "Heizungsanlagen Heizungsanlage",
+        "IZS-Komponenten Flucht- /Liefertür",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale IDT",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Krane Laufkatzenanlage",
+        "Küchen-/Kochgeräte Geschirrspülmaschine, Haushalt",
+        "Küchen-/Kochgeräte Mikrowellengerät",
+        "Kühleinrichtungen Kühlgeräte",
+        "Lüftungsanlagen Abluftanlage",
+        "Lüftungsanlagen Schutzraumlüft. ohne Sandfilt.",
+        "Lüftungsanlagen Zu-/Abluftanlage",
+        "Medizinische Geräte und Hilfsmittel Erste-Hilfe-Verbandskasten",
+        "Meldeeinrichtungen, sonstige Tür-Klingel-/Sprech-/Videoanl",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsveränd",
+        "Splitklimageräte Splitklimagerät",
+        "Steig- und Anschlageinrichtungen Steigleiter",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "Warenverkaufseinrichtungen Getränkeschank-und-zapfanlage",
+        "Wasseraufbereitungsanlagen Enthärtungsanlage",
+        "Wasserverteilanlagen Wasserverteilanlage",
+        "kraftbetätigte Einrichtungen Fenster",
+        "kraftbetätigte Einrichtungen Sonnenschutz, außen",
+        "sonstige Wassertechnische Einrichtungen Automatische Spüleinrichtung",
+        "sonstige Wassertechnische Einrichtungen Systemtrenner",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht"
+      ],
+      "existing_mapped_installations": [
+        "Schrankenanlage",
+        "Abwassersammelanlage",
+        "Abwasserleitungen",
+        "Außenbeleuchtung",
+        "Blitzschutzanlage",
+        "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+        "Gasleitungsnetz",
+        "Brandmeldeanlage",
+        "Heizkörper",
+        "Handfeuerlöscher",
+        "Umluftkühlgerät",
+        "Abluftanlage",
+        "Zu- und Abluftanlage",
+        "Abwasserleitungen",
+        "Sicherheitsbeleuchtungsanlage",
+        "Wasseraufbereitungsanlage (Enthärtung)",
+        "Wasseraufbereitungsanlage (Dosierung)",
+        "Sonnenschutzanlage"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Personenaufzug",
+        "Niederspannungshauptverteiler",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Hebeanlage",
+        "Automationssystem",
+        "Tritte / Leitern",
+        "Brandschutzklappe",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Falt- und Schiebewand",
+          "correlated_with": "Abwassersammelanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Uhrenanlage",
+          "correlated_with": "Abwassersammelanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "correlated_with": "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "correlated_with": "Sicherheitsbeleuchtungsanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "correlated_with": "Brandmeldeanlage",
+          "correlation": 0.8749672939989045
+        },
+        {
+          "installation": "Abläufe",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Rohrleitungen",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Fettabscheider",
+          "correlated_with": "Schrankenanlage",
+          "correlation": 0.7453559924999297
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Falt- und Schiebewand",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Abwassersammelanlage",
+          "verbandsnummer": "346.01.01.000.02.00"
+        },
+        {
+          "installation": "Uhrenanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Abwassersammelanlage",
+          "verbandsnummer": "453.01.01.000.00.00"
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "verbandsnummer": "411.04.04.000.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Sicherheitsbeleuchtungsanlage",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Personenaufzug",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "461.01.01.000.01.09"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.8749672939989045,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.87) mit Brandmeldeanlage",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Fettabscheider",
+          "probability": 0.7453559924999297,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.75) mit Schrankenanlage",
+          "verbandsnummer": "411.04.02.000.00.01"
+        },
+        {
+          "installation": "Hebeanlage",
+          "probability": 0.71875,
+          "reason": "frequency",
+          "details": "Kommt in 71.9% aller Gebäude vor",
+          "verbandsnummer": "411.05.01.012.04.01"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Brandschutzklappe",
+          "probability": 0.625,
+          "reason": "frequency",
+          "details": "Kommt in 62.5% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.053.00.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Fernwärmeübergabestation - Heißwasser",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "421.02.01.000.00.01"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    },
+    "26287": {
+      "existing_installations": [
+        "Abscheider, Sperren Fettabscheider",
+        "Abscheider, Sperren Heizölsperre",
+        "Abwasserleitungsanlagen Abwasserleitungsanlage",
+        "Außenbeleuchtungseinrichtungen Außenbel.einr. ortsf. Leuchten",
+        "Brandschutzklappen Brandschutzklappen",
+        "Fahnen Fahne am Mast mit Ausleger",
+        "Feuer-/Rauchschutzabschlüsse Feuer-/Rauchschutz-TÜR",
+        "Firmenlogos Konzern - T mit Digits",
+        "Gemeinschaftsverpfleg.einr., sonstige Miniküche/Teeküche",
+        "Hebeanlagen/Entwässerungspumpen Entwässerungspumpen, ortsfest",
+        "Hebeanlagen/Entwässerungspumpen Fäkalienhebeanlage",
+        "IZS-Komponenten Flucht- /Liefertür",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale IDT",
+        "IZS-Zutrittskontrollzentrale ZKZ-EZS",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleingüteraufzüge Kleingüteraufzug",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Krane Ausleger- /Drehkran",
+        "Lüftungsanlagen Abluftanlage",
+        "Lüftungsanlagen Lüftungsanlage Küche",
+        "Lüftungsanlagen Lüftungsanlage mit Heizung",
+        "Lüftungsanlagen Schutzraumlüft. mit Sandfilter",
+        "Lüftungsanlagen Zu-/Abluftanlage",
+        "Medizinische Geräte und Hilfsmittel Erste-Hilfe-Verbandskasten",
+        "Meldeeinrichtungen, sonstige Tür-Klingel-/Sprech-/Videoanl",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "Personen-/Lastenaufzüge Lastenaufzug",
+        "RWA-Anlagen RWA-Anlagen",
+        "Sicherheitsbeleuchtung; Anlagen Sicherheitsbeleuchtung",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsfest",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsveränd",
+        "Splitklimageräte Splitklimagerät",
+        "Steigleitungen Steigleitung",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "Teilklimaanlagen Teilklima mit Kälte u. Heizg.",
+        "Ventilatoren Deckenventilator",
+        "Ventilatoren Wand-/Fensterventilator",
+        "Warenverkaufseinrichtungen Getränkeschank-und-zapfanlage",
+        "Wasseraufbereitungsanlagen Enthärtungsanlage",
+        "Wassererwärmungsanlagen Wassererwärmungsanlage",
+        "Wassererwärmungsgeräte ortsfest Gerät, elektrisch beheizt",
+        "Wasserverteilanlagen Wasserverteilanlage",
+        "Zentrale Kälteanlagen Kolbenverdichter",
+        "Zentrale Kälteanlagen Scroll-/Spiralverdichter",
+        "autarke Zutrittsanlagen autarke Zutrittsanlagen",
+        "besondere Einrichtungen Behinderten-WC",
+        "besondere Einrichtungen Dachrinnen-, Rohrbegleitheiz.",
+        "kraftbetätigte Einrichtungen Fenster",
+        "kraftbetätigte Einrichtungen Schranke, Tor, Tür, Rollgitter",
+        "kraftbetätigte Einrichtungen Sonnenschutz, außen",
+        "kraftbetätigte Einrichtungen Sonnenschutz, innen",
+        "sonstige Wassertechnische Einrichtungen Automatische Spüleinrichtung",
+        "sonstige Wassertechnische Einrichtungen Systemtrenner",
+        "spezielle Kundenanforderungen jedes Jahr (1J)",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht",
+        "trockene Rückkühlwerke Kühlturm/Trockenkühler",
+        "übergeordneter Schaltschrank übergeordneter Schaltschrank"
+      ],
+      "existing_mapped_installations": [
+        "Fettabscheider",
+        "Schrankenanlage",
+        "Abwasserleitungen",
+        "Außenbeleuchtung",
+        "Brandschutzklappe",
+        "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+        "Handfeuerlöscher",
+        "Abluftanlage",
+        "Küchenabluftanlage",
+        "Wassererwärmungsanlage",
+        "Zu- und Abluftanlage",
+        "Abwasserleitungen",
+        "Lastenaufzug",
+        "Sicherheitsbeleuchtungsanlage",
+        "Sicherheitsbeleuchtungsanlage",
+        "Sicherheitsbeleuchtungsanlage",
+        "Wasseraufbereitungsanlage (Enthärtung)",
+        "Wassererwärmungsanlage",
+        "Wassererwärmungsanlage",
+        "Wasseraufbereitungsanlage (Dosierung)",
+        "Sonnenschutzanlage",
+        "Sonnenschutzanlage"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Personenaufzug",
+        "Niederspannungshauptverteiler",
+        "Blitzschutzanlage",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Hebeanlage",
+        "Automationssystem",
+        "Heizkörper",
+        "Tritte / Leitern",
+        "Brandmeldeanlage",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Neutralisationsanlage",
+          "correlated_with": "Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "correlated_with": "Sicherheitsbeleuchtungsanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Automationssystem",
+          "correlated_with": "Brandschutzklappe",
+          "correlation": 0.8703882797784894
+        },
+        {
+          "installation": "Sprinkleranlage",
+          "correlated_with": "Fettabscheider",
+          "correlation": 0.7474093186836597
+        },
+        {
+          "installation": "Management-Ebene",
+          "correlated_with": "Brandschutzklappe",
+          "correlation": 0.727606875108999
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Neutralisationsanlage",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Rauchschutz- / Feuerschutzvorhang / Rauchschürze",
+          "verbandsnummer": "411.04.04.000.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Sicherheitsbeleuchtungsanlage",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Personenaufzug",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "461.01.01.000.01.09"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Blitzschutzanlage",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "446.01.01.216.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.8703882797784894,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.87) mit Brandschutzklappe",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Sprinkleranlage",
+          "probability": 0.7474093186836597,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.75) mit Fettabscheider",
+          "verbandsnummer": "474.01.04.223.00.00"
+        },
+        {
+          "installation": "Management-Ebene",
+          "probability": 0.727606875108999,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.73) mit Brandschutzklappe",
+          "verbandsnummer": "483.01.01.000..01"
+        },
+        {
+          "installation": "Hebeanlage",
+          "probability": 0.71875,
+          "reason": "frequency",
+          "details": "Kommt in 71.9% aller Gebäude vor",
+          "verbandsnummer": "411.05.01.012.04.01"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Heizkörper",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "423.01.01.000.00.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Brandmeldeanlage",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "456.01.01.202.02.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Fernwärmeübergabestation - Heißwasser",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "421.02.01.000.00.01"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    },
+    "28580": {
+      "existing_installations": [
+        "Abwasserleitungsanlagen Abwasserleitungsanlage",
+        "Blitzschutz-/Erdungsanlage Blitzschutz/Erdung Gebäude",
+        "Heizgeräte Heizgerät, ortsfest",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale ACU",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht"
+      ],
+      "existing_mapped_installations": [
+        "Abwasserleitungen",
+        "Blitzschutzanlage",
+        "Heizkörper",
+        "Handfeuerlöscher",
+        "Abwasserleitungen"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Personenaufzug",
+        "Niederspannungshauptverteiler",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "Abluftanlage",
+        "Sicherheitsbeleuchtungsanlage",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Hebeanlage",
+        "Sonnenschutzanlage",
+        "Automationssystem",
+        "Tritte / Leitern",
+        "Brandmeldeanlage",
+        "Brandschutzklappe",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Außenbeleuchtung",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Abläufe",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Rohrleitungen",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Personenaufzug",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "461.01.01.000.01.09"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Abluftanlage",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "431.01.01.000.00.01"
+        },
+        {
+          "installation": "Sicherheitsbeleuchtungsanlage",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "445.02.01.235.00.00"
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Hebeanlage",
+          "probability": 0.71875,
+          "reason": "frequency",
+          "details": "Kommt in 71.9% aller Gebäude vor",
+          "verbandsnummer": "411.05.01.012.04.01"
+        },
+        {
+          "installation": "Sonnenschutzanlage",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "338.01.01.159.02.00"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Brandmeldeanlage",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "456.01.01.202.02.00"
+        },
+        {
+          "installation": "Brandschutzklappe",
+          "probability": 0.625,
+          "reason": "frequency",
+          "details": "Kommt in 62.5% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.053.00.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Fernwärmeübergabestation - Heißwasser",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "421.02.01.000.00.01"
+        },
+        {
+          "installation": "Außenbeleuchtung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "ohne"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    },
+    "30009": {
+      "existing_installations": [
+        "Blitzschutz-/Erdungsanlage Blitzschutz/Erdung Gebäude",
+        "Heizgeräte Heizgerät, ortsfest",
+        "IZS-Komponenten Kartenleser eines Zugangs",
+        "IZS-Komponenten Zugangstür",
+        "IZS-Zutrittskontrollzentrale ZKZ-EZS",
+        "Innenbeleuchtungseinrichtungen Innenbel.einr. ortsf. Leuchten",
+        "Kleinlöschgeräte Feuerlöscher",
+        "Niederspannungsleitungsanlagen Niederspannungsleitungsanlage",
+        "Ortsveränderliche elektr. Anschlusseinr. ortsveränderl. elektr. Geräte",
+        "Sicherheitsleuchten, einzelne Sicherheitsl.einzel ortsveränd",
+        "Technischer Platz allgemein Leitern und Tritte",
+        "spezielle Tätigkeiten Verkehrssicherungspflicht"
+      ],
+      "existing_mapped_installations": [
+        "Blitzschutzanlage",
+        "Heizkörper",
+        "Handfeuerlöscher",
+        "Abwasserleitungen",
+        "Sicherheitsbeleuchtungsanlage"
+      ],
+      "missing_high_frequency": [
+        "Außentür",
+        "Raumbeleuchtung",
+        "Verlegesysteme",
+        "Abläufe",
+        "Rohrleitungen",
+        "Wärmeverteilnetz",
+        "Kabel",
+        "Außenfenster mit Kipp- oder Drehflügel",
+        "GA-Schaltschränke",
+        "Leitungen",
+        "Personenaufzug",
+        "Niederspannungshauptverteiler",
+        "Rauchwärmeabzugsanlage (RWA)",
+        "Abluftanlage",
+        "NS-Unterverteiler",
+        "Geneigtes Dach",
+        "Türsprech- und Türöffneranlage",
+        "Hebeanlage",
+        "Sonnenschutzanlage",
+        "Automationssystem",
+        "Tritte / Leitern",
+        "Brandmeldeanlage",
+        "Brandschutzklappe",
+        "Werkstattausstattung",
+        "Sanitäre Einrichtungsgegenstände",
+        "Fernwärmeübergabestation - Heißwasser",
+        "Außenbeleuchtung",
+        "Außentor",
+        "Kanalnetz",
+        "Werbeanlage",
+        "Flachdach"
+      ],
+      "missing_correlated": [
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "correlated_with": "Sicherheitsbeleuchtungsanlage",
+          "correlation": 1.0
+        },
+        {
+          "installation": "Abläufe",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Rohrleitungen",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "correlated_with": "Blitzschutzanlage",
+          "correlation": 0.8027729719194864
+        }
+      ],
+      "suggestions": [
+        {
+          "installation": "Außentür",
+          "probability": 1.0,
+          "reason": "frequency",
+          "details": "Kommt in 100.0% aller Gebäude vor",
+          "verbandsnummer": "334.03.01.000.16.02"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 1.0,
+          "reason": "correlation",
+          "details": "Korreliert stark (1.00) mit Sicherheitsbeleuchtungsanlage",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Raumbeleuchtung",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "445.01.01.000.00.00"
+        },
+        {
+          "installation": "Verlegesysteme",
+          "probability": 0.96875,
+          "reason": "frequency",
+          "details": "Kommt in 96.9% aller Gebäude vor",
+          "verbandsnummer": "444.04.01.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Kabel",
+          "probability": 0.9375,
+          "reason": "frequency",
+          "details": "Kommt in 93.8% aller Gebäude vor",
+          "verbandsnummer": "444.01.01.000.00.00"
+        },
+        {
+          "installation": "Außenfenster mit Kipp- oder Drehflügel",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "334.01.01.000.02.00"
+        },
+        {
+          "installation": "GA-Schaltschränke",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "482.01.01.000.01.00"
+        },
+        {
+          "installation": "Leitungen",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "444.02.01.000.00.00"
+        },
+        {
+          "installation": "Personenaufzug",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "461.01.01.000.01.09"
+        },
+        {
+          "installation": "Niederspannungshauptverteiler",
+          "probability": 0.90625,
+          "reason": "frequency",
+          "details": "Kommt in 90.6% aller Gebäude vor",
+          "verbandsnummer": "443.01.01.002.00.00"
+        },
+        {
+          "installation": "Rauchwärmeabzugsanlage (RWA)",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "439.02.01.000.01.00"
+        },
+        {
+          "installation": "Abluftanlage",
+          "probability": 0.875,
+          "reason": "frequency",
+          "details": "Kommt in 87.5% aller Gebäude vor",
+          "verbandsnummer": "431.01.01.000.00.01"
+        },
+        {
+          "installation": "NS-Unterverteiler",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "444.03.01.000.00.01"
+        },
+        {
+          "installation": "Geneigtes Dach",
+          "probability": 0.84375,
+          "reason": "frequency",
+          "details": "Kommt in 84.4% aller Gebäude vor",
+          "verbandsnummer": "363.01.02.000.00.00"
+        },
+        {
+          "installation": "Abläufe",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "411.02.01.126.00.00"
+        },
+        {
+          "installation": "Rohrleitungen",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "412.03.01.230.00.00"
+        },
+        {
+          "installation": "Wärmeverteilnetz",
+          "probability": 0.8027729719194864,
+          "reason": "correlation",
+          "details": "Korreliert stark (0.80) mit Blitzschutzanlage",
+          "verbandsnummer": "422.01.01.225.00.00"
+        },
+        {
+          "installation": "Türsprech- und Türöffneranlage",
+          "probability": 0.78125,
+          "reason": "frequency",
+          "details": "Kommt in 78.1% aller Gebäude vor",
+          "verbandsnummer": "452.03.01.000.01.00"
+        },
+        {
+          "installation": "Hebeanlage",
+          "probability": 0.71875,
+          "reason": "frequency",
+          "details": "Kommt in 71.9% aller Gebäude vor",
+          "verbandsnummer": "411.05.01.012.04.01"
+        },
+        {
+          "installation": "Sonnenschutzanlage",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "338.01.01.159.02.00"
+        },
+        {
+          "installation": "Automationssystem",
+          "probability": 0.6875,
+          "reason": "frequency",
+          "details": "Kommt in 68.8% aller Gebäude vor",
+          "verbandsnummer": "481.01.01.142.03.00"
+        },
+        {
+          "installation": "Tritte / Leitern",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "389.01.01.000.01.00"
+        },
+        {
+          "installation": "Brandmeldeanlage",
+          "probability": 0.65625,
+          "reason": "frequency",
+          "details": "Kommt in 65.6% aller Gebäude vor",
+          "verbandsnummer": "456.01.01.202.02.00"
+        },
+        {
+          "installation": "Brandschutzklappe",
+          "probability": 0.625,
+          "reason": "frequency",
+          "details": "Kommt in 62.5% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.053.00.00"
+        },
+        {
+          "installation": "Werkstattausstattung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": ""
+        },
+        {
+          "installation": "Sanitäre Einrichtungsgegenstände",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "412.05.01.000.00.00"
+        },
+        {
+          "installation": "Fernwärmeübergabestation - Heißwasser",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "421.02.01.000.00.01"
+        },
+        {
+          "installation": "Außenbeleuchtung",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "ohne"
+        },
+        {
+          "installation": "Außentor",
+          "probability": 0.59375,
+          "reason": "frequency",
+          "details": "Kommt in 59.4% aller Gebäude vor",
+          "verbandsnummer": "334.02.01.000.07.01"
+        },
+        {
+          "installation": "Kanalnetz",
+          "probability": 0.5625,
+          "reason": "frequency",
+          "details": "Kommt in 56.2% aller Gebäude vor",
+          "verbandsnummer": "439.01.01.222.00.00"
+        },
+        {
+          "installation": "Werbeanlage",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "339.01.01.000.00.00"
+        },
+        {
+          "installation": "Flachdach",
+          "probability": 0.53125,
+          "reason": "frequency",
+          "details": "Kommt in 53.1% aller Gebäude vor",
+          "verbandsnummer": "363.01.01.000.00.01"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_buildings": 7,
+    "total_suggestions": 246,
+    "frequency_suggestions": 201,
+    "correlation_suggestions": 45,
+    "total_mapped_installations": 114,
+    "avg_suggestions_per_building": 35.142857142857146,
+    "avg_mapped_installations_per_building": 16.285714285714285
+  }
+}

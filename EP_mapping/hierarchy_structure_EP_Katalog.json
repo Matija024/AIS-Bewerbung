@@ -1,0 +1,1150 @@
+{
+  "01.": {
+    "text": "Wartung und Inspektion",
+    "children": {
+      "01.01.": {
+        "text": "Außenwände - Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen",
+        "children": {
+          "01.01.01.": {
+            "text": "Außentüren und -fenster",
+            "children": {
+              "01.01.01.01.": {
+                "text": "Fenster mit Kipp- oder Drehflügel",
+                "children": {}
+              },
+              "01.01.01.03.": {
+                "text": "Hochwasserschutzfenster",
+                "children": {}
+              },
+              "01.01.01.04.": {
+                "text": "Falttor",
+                "children": {}
+              },
+              "01.01.01.06.": {
+                "text": "Rolltore / Rollgittertore",
+                "children": {}
+              },
+              "01.01.01.08.": {
+                "text": "Schiebetore (inkl. Feststellanlage)",
+                "children": {}
+              },
+              "01.01.01.12.": {
+                "text": "Schnelllauftore - kraftbetrieben",
+                "children": {}
+              },
+              "01.01.01.13.": {
+                "text": "Drehflügeltore (Schwenk- und Schwingtore) - kraftbetrieben",
+                "children": {}
+              },
+              "01.01.01.14.": {
+                "text": "Sektionaltore",
+                "children": {}
+              },
+              "01.01.01.16.": {
+                "text": "Tore - Feststellanlage für Brand-/ Rauchschutzfunktion",
+                "children": {}
+              },
+              "01.01.01.17.": {
+                "text": "Karusselltür (",
+                "children": {}
+              },
+              "01.01.01.25.": {
+                "text": "Schiebetür (",
+                "children": {}
+              },
+              "01.01.01.41.": {
+                "text": "Drehflügeltür (",
+                "children": {}
+              },
+              "01.01.01.57.": {
+                "text": "Zulage zu",
+                "children": {}
+              },
+              "01.01.01.61.": {
+                "text": "Personenvereinzelungsanlage, Schleuse/Durchgangsschleuse",
+                "children": {}
+              },
+          "01.01.02.": {
+                "text": "Sonnenschutz - Rollläden, Markisen und Jalousien einschließlich Antrieben",
+                "children": {
+                  "01.01.02.01.": {
+                    "text": "Rolläden",
+                    "children": {}
+                  },
+                  "01.01.02.03.": {
+                    "text": "Jalousien",
+                    "children": {}
+                  },
+                  "01.01.02.05.": {
+                    "text": "Markisen",
+                    "children": {}
+                  },
+                  "01.01.02.07.": {
+                    "text": "Raffstoreanlage",
+                    "children": {}
+                  }
+                }
+              },
+              "01.01.03.": {
+                "text": "Außenwände, sonstiges - Gitter, Geländer, Stoßabweiser und Handläufe",
+                "children": {
+                  "01.01.03.01.": {
+                    "text": "Werbeanlagen",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.02.": {
+            "text": "Innenwände - Innenwände und Innenstützen",
+            "children": {
+              "01.02.01.": {
+                "text": "Elementierte Innenwände - Elementierte Wände, bestehend aus Innenwänden, -türen, -fenstern, -bekleidungen, z. B. Falt- und Schiebewände, Sanitärtrennwände, Verschläge",
+                "children": {
+                  "01.02.01.01.": {
+                    "text": "Falt- und Schiebewände",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.03.": {
+            "text": "Dächer - Flache oder geneigte Dächer",
+            "children": {
+              "01.03.01.": {
+                "text": "Dachfenster, Dachöffnungen - Fenster, Ausstiege einschließlich Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen",
+                "children": {
+                  "01.03.01.01.": {
+                    "text": "Lichtkuppeln / Oberlichter / Dachfenster - elektrisch",
+                    "children": {}
+                  }
+                }
+              },
+              "01.03.02.": {
+                "text": "Dachbeläge - Beläge auf Dachkonstruktionen einschließlich Schalungen, Lattungen, Gefälle-, Dichtungs-, Dämm-, Schutz- und Nutzschichten; Entwässerungen der Dachfläche bis zum Anschluss an die Abwasseranlagen",
+                "children": {
+                  "01.03.02.01.": {
+                    "text": "Flachdach",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.04.": {
+            "text": "Baukonstruktive Einbauten, sonstiges",
+            "children": {
+              "01.04.01.": {
+                "text": "Baukonstruktive Einbauten, sonstiges - z. B. Rauchschutzvorhänge",
+                "children": {
+                  "01.04.01.01.": {
+                    "text": "Rauchschutz- / Feuerschutzvorhänge / Rauchschürze",
+                    "children": {}
+                  },
+                  "01.04.01.03.": {
+                    "text": "Tritte / Leitern",
+                    "children": {}
+                  },
+                  "01.04.01.05.": {
+                    "text": "Sekuranten",
+                    "children": {}
+                  },
+                  "01.04.01.06.": {
+                    "text": "Anschlagpunkte",
+                    "children": {}
+                  },
+                  "01.04.01.07.": {
+                    "text": "Seilsysteme",
+                    "children": {}
+                  },
+                  "01.04.01.08.": {
+                    "text": "Schneelastwaage",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.05.": {
+            "text": "Sonstige Maßnahmen für Baukonstruktionen - Baukonstruktionen und übergreifende Maßnahmen im Zusammenhang mit den Baukonstruktionen",
+            "children": {
+              "01.05.01.": {
+                "text": "Sonstige Maßnahmen für Baukonstruktionen, sonstiges - Baukonstruktionen, die mehrere Kostengruppen betreffen",
+                "children": {}
+              }
+            }
+          },
+          "01.06.": {
+            "text": "Abwasser-, Wasser-, Gasanlagen",
+            "children": {
+              "01.06.01.": {
+                "text": "Abwasseranlagen",
+                "children": {
+                  "01.06.01.01.": {
+                    "text": "Abwasserleitung",
+                    "children": {}
+                  },
+                  "01.06.01.04.": {
+                    "text": "Kontroll-, Reinigungs- und Sammelschächte",
+                    "children": {}
+                  },
+                  "01.06.01.05.": {
+                    "text": "Bodenrinnen (KGR",
+                    "children": {}
+                  },
+                  "01.06.01.07.": {
+                    "text": "Bodeneinläufe",
+                    "children": {}
+                  },
+                  "01.06.01.08.": {
+                    "text": "Straßeneinlaufkästen (KGR 500)",
+                    "children": {}
+                  },
+                  "01.06.01.09.": {
+                    "text": "Dachrinnen",
+                    "children": {}
+                  },
+                  "01.06.01.10.": {
+                    "text": "Dacheinläufe",
+                    "children": {}
+                  },
+                  "01.06.01.11.": {
+                    "text": "Sickerschächte",
+                    "children": {}
+                  },
+                  "01.06.01.12.": {
+                    "text": "Rigolen",
+                    "children": {}
+                  },
+                  "01.06.01.13.": {
+                    "text": "Leichtflüssigkeitsabscheider (Benzin/Öl)",
+                    "children": {}
+                  },
+                  "01.06.01.15.": {
+                    "text": "Fettabscheider",
+                    "children": {}
+                  },
+                  "01.06.01.18.": {
+                    "text": "Stärkeabscheider",
+                    "children": {}
+                  },
+                  "01.06.01.21.": {
+                    "text": "Neutralisationsanlage",
+                    "children": {}
+                  },
+                  "01.06.01.22.": {
+                    "text": "Hebeanlage",
+                    "children": {}
+                  },
+                  "01.06.01.32.": {
+                    "text": "Tauchpumpe inkl. Pumpensumpf",
+                    "children": {}
+                  }
+                }
+              },
+              "01.06.02.": {
+                "text": "Wasseranlagen",
+                "children": {
+                  "01.06.02.01.": {
+                    "text": "Brunnenanlagen",
+                    "children": {}
+                  },
+                  "01.06.02.05.": {
+                    "text": "Regenwassernutzungsanlagen",
+                    "children": {}
+                  },
+                  "01.06.02.08.": {
+                    "text": "Flusswasseranlagen",
+                    "children": {}
+                  },
+                  "01.06.02.12.": {
+                    "text": "Wasseraufbereitungsanlagen (",
+                    "children": {}
+                  },
+                  "01.06.02.19.": {
+                    "text": "Enteisenungs-/ Entmanganungsanlagen",
+                    "children": {}
+                  },
+                  "01.06.02.21.": {
+                    "text": "Druckerhöhungsanlagen (nicht Löschwasser)",
+                    "children": {}
+                  },
+                  "01.06.02.26.": {
+                    "text": "Wasserverteilung (inkl. Rohrnetz und Absperr-, Entleerungs- und Entnahmearmaturen, Druckminderung)",
+                    "children": {}
+                  },
+                  "01.06.02.27.": {
+                    "text": "Hygienespüleinrichtungen",
+                    "children": {}
+                  },
+                  "01.06.02.28.": {
+                    "text": "Wasserfilter",
+                    "children": {}
+                  },
+                  "01.06.02.29.": {
+                    "text": "Wasserzähler",
+                    "children": {}
+                  },
+                  "01.06.02.30.": {
+                    "text": "Durchlauferhitzer, Klein-, Wand- und Standspeicher",
+                    "children": {}
+                  },
+                  "01.06.02.31.": {
+                    "text": "Sanitäre Einrichtungsgegenstände (Waschtisch, Urinale, WC, Duschen, Wannen, etc.)",
+                    "children": {}
+                  }
+                }
+              },
+              "01.06.03.": {
+                "text": "Gasanlagen",
+                "children": {
+                  "01.06.03.01.": {
+                    "text": "Gastank",
+                    "children": {}
+                  },
+                  "01.06.03.05.": {
+                    "text": "Gaseinspeisung",
+                    "children": {}
+                  },
+                  "01.06.03.06.": {
+                    "text": "Gaszähler",
+                    "children": {}
+                  },
+                  "01.06.03.07.": {
+                    "text": "Gasregelstrecke",
+                    "children": {}
+                  }
+                }
+              },
+              "01.06.04.": {
+                "text": "Sonstige Maßnahmen für Abwasser-, Wasser-, Gasanlagen, sonstiges",
+                "children": {}
+              }
+            }
+          },
+          "01.07.": {
+            "text": "Wärmeversorgungsanlagen",
+            "children": {
+              "01.07.01.": {
+                "text": "Wärmeerzeugungsanlagen",
+                "children": {
+                  "01.07.01.01.": {
+                    "text": "Heizöltank",
+                    "children": {}
+                  },
+                  "01.07.01.05.": {
+                    "text": "Leckageüberwachungsanlage Heizöltank",
+                    "children": {}
+                  },
+                  "01.07.01.06.": {
+                    "text": "Heizölversorgungsleitung für Ölbrenner inkl. Armaturen",
+                    "children": {}
+                  },
+                  "01.07.01.07.": {
+                    "text": "Fernwärmeübergabestation - Heißwasser",
+                    "children": {}
+                  },
+                  "01.07.01.11.": {
+                    "text": "Wasserkessel (ohne Brenner)",
+                    "children": {}
+                  },
+                  "01.07.01.16.": {
+                    "text": "Dampfkessel",
+                    "children": {}
+                  },
+                  "01.07.01.17.": {
+                    "text": "Ölbrenner",
+                    "children": {}
+                  },
+                  "01.07.01.22.": {
+                    "text": "Gasbrenner (ohne Gebläse)",
+                    "children": {}
+                  },
+                  "01.07.01.26.": {
+                    "text": "Gasgebläsebrenner",
+                    "children": {}
+                  },
+                  "01.07.01.31.": {
+                    "text": "Brenner für",
+                    "children": {}
+                  },
+                  "01.07.01.33.": {
+                    "text": "Grundwasser-Wärmepumpen (inkl. Brunnenanlage)",
+                    "children": {}
+                  },
+                  "01.07.01.37.": {
+                    "text": "Luft-Wärmepumpen (inkl. Verdampfer)",
+                    "children": {}
+                  },
+                  "01.07.01.41.": {
+                    "text": "Erd-Wärmepumpen (inkl. Erdkollektor)",
+                    "children": {}
+                  },
+                  "01.07.01.43.": {
+                    "text": "Gasthermen (inkl. Brenner)",
+                    "children": {}
+                  },
+                  "01.07.01.45.": {
+                    "text": "Solarthermie",
+                    "children": {}
+                  },
+                  "01.07.01.48.": {
+                    "text": "Blockheizkraftwerk (wärmegeführt)",
+                    "children": {}
+                  },
+                  "01.07.01.49.": {
+                    "text": "Brennstoffzellenheizgeräte",
+                    "children": {}
+                  },
+                  "01.07.01.50.": {
+                    "text": "Elektroheizungen",
+                    "children": {}
+                  },
+                  "01.07.01.51.": {
+                    "text": "Hellstrahler (brennerlos)",
+                    "children": {}
+                  },
+                  "01.07.01.53.": {
+                    "text": "Dunkelstrahler (inkl. Brenner)",
+                    "children": {}
+                  },
+                  "01.07.01.55.": {
+                    "text": "Einzelraumfeuerungsanlagen für feste Brennstoffe",
+                    "children": {}
+                  },
+                  "01.07.01.56.": {
+                    "text": "Warmwasserspeicher",
+                    "children": {}
+                  },
+                  "01.07.01.66.": {
+                    "text": "Schornsteine",
+                    "children": {}
+                  }
+                }
+              },
+              "01.07.02.": {
+                "text": "Wärmeverteilnetze",
+                "children": {
+                  "01.07.02.01.": {
+                    "text": "Heizungsverteiler (inkl. Entleerungen, Thermometer, Manometer, Armaturen, Ventile, Klappen, Wächter, Schmutzfänger, Umwälzpumpen, Druckausdehnungsgefäße, Nachspeiseeinrichtungen, Hydrauliche Weichen etc.)",
+                    "children": {}
+                  },
+                  "01.07.02.07.": {
+                    "text": "Entgasungsstation inkl. Absperrungen",
+                    "children": {}
+                  },
+                  "01.07.02.08.": {
+                    "text": "Plattenwärmetauscher inkl. Absperrungen",
+                    "children": {}
+                  },
+                  "01.07.02.14.": {
+                    "text": "Rohrbündelwärmetauscher inkl. Absperrungen",
+                    "children": {}
+                  },
+                  "01.07.02.20.": {
+                    "text": "Wärmemengenzähler",
+                    "children": {}
+                  },
+                  "01.07.02.21.": {
+                    "text": "Druckhaltesysteme mit Fremddruckerzeugung (Pumpen / Kompressoren)",
+                    "children": {}
+                  }
+                }
+              },
+              "01.07.03.": {
+                "text": "Raumheizflächen",
+                "children": {
+                  "01.07.03.01.": {
+                    "text": "Heizkörper",
+                    "children": {}
+                  },
+                  "01.07.03.02.": {
+                    "text": "Wand- / Decken -/ Fußbodenheizung",
+                    "children": {}
+                  }
+                }
+              },
+              "01.07.04.": {
+                "text": "Wärmeversorgungsanlagen, sonstiges",
+                "children": {
+                  "01.07.04.01.": {
+                    "text": "Rampenheizung (wassergeführt)",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.08.": {
+            "text": "Lufttechnische Anlagen",
+            "children": {
+              "01.08.01.": {
+                "text": "Lüftungsanlagen",
+                "children": {
+                  "01.08.01.01.": {
+                    "text": "Abluftanlagen (mit bis zu einer LBF)",
+                    "children": {}
+                  },
+                  "01.08.01.10.": {
+                    "text": "Abluftanlage - Frequenzumformer",
+                    "children": {}
+                  },
+                  "01.08.01.11.": {
+                    "text": "Zuluftanlagen (mit bis zu einer LBF)",
+                    "children": {}
+                  },
+                  "01.08.01.20.": {
+                    "text": "Zuluftanlage - Frequenzumformer",
+                    "children": {}
+                  },
+                  "01.08.01.21.": {
+                    "text": "Zu- und Abluftanlage",
+                    "children": {}
+                  },
+                  "01.08.01.40.": {
+                    "text": "Maschinelle Rauch-/Wärmeabzuganlagen (MRA)",
+                    "children": {}
+                  },
+                  "01.08.01.43.": {
+                    "text": "Jet-Ventilatoren",
+                    "children": {}
+                  },
+                  "01.08.01.46.": {
+                    "text": "Rauchschutzdruckanlagen (RDA)",
+                    "children": {}
+                  },
+                  "01.08.01.49.": {
+                    "text": "Küchenabluftanlagen",
+                    "children": {}
+                  },
+                  "01.08.01.52.": {
+                    "text": "Küchenabluftanlage - Frequenzumformer",
+                    "children": {}
+                  },
+                  "01.08.01.53.": {
+                    "text": "Luftschleieranlage",
+                    "children": {}
+                  }
+                }
+              },
+              "01.08.02.": {
+                "text": "Teilklimaanlagen",
+                "children": {
+                  "01.08.02.01.": {
+                    "text": "Teilklimaanlagen",
+                    "children": {}
+                  },
+                  "01.08.02.10.": {
+                    "text": "Teilklimaanlage - Frequenzumformer",
+                    "children": {}
+                  }
+                }
+              },
+              "01.08.03.": {
+                "text": "Klimaanlagen",
+                "children": {
+                  "01.08.03.01.": {
+                    "text": "Klimaanlagen",
+                    "children": {}
+                  },
+                  "01.08.03.10.": {
+                    "text": "Klimaanlage - Frequenzumformer",
+                    "children": {}
+                  }
+                }
+              },
+              "01.08.04.": {
+                "text": "Kälteanlagen",
+                "children": {
+                  "01.08.04.01.": {
+                    "text": "Splitgeräte",
+                    "children": {}
+                  },
+                  "01.08.04.06.": {
+                    "text": "Kompressionskältemaschine",
+                    "children": {}
+                  },
+                  "01.08.04.18.": {
+                    "text": "Absorptionskältemaschine",
+                    "children": {}
+                  },
+                  "01.08.04.19.": {
+                    "text": "Umluftkühlgerät",
+                    "children": {}
+                  },
+                  "01.08.04.22.": {
+                    "text": "Klimaschrank",
+                    "children": {}
+                  },
+                  "01.08.04.24.": {
+                    "text": "Trockenrückkühlanlagen",
+                    "children": {}
+                  },
+                  "01.08.04.27.": {
+                    "text": "Verdunstungsrückkühlanlagen (Kühlturme)",
+                    "children": {}
+                  },
+                  "01.08.04.30.": {
+                    "text": "Verteiler und Rohrleitungen",
+                    "children": {}
+                  },
+                  "01.08.04.36.": {
+                    "text": "Verteilnetz / Pumpen - Kälteerzeugung",
+                    "children": {}
+                  }
+                }
+              },
+              "01.08.05.": {
+                "text": "Lufttechnische Anlagen, sonstiges",
+                "children": {
+                  "01.08.05.01.": {
+                    "text": "Brandschutzklappen",
+                    "children": {}
+                  },
+                  "01.08.05.03.": {
+                    "text": "Volumenstromregler",
+                    "children": {}
+                  },
+                  "01.08.05.04.": {
+                    "text": "Nacherhitzer",
+                    "children": {}
+                  },
+                  "01.08.05.05.": {
+                    "text": "Nachkühler",
+                    "children": {}
+                  },
+                  "01.08.05.06.": {
+                    "text": "Stützlüfter",
+                    "children": {}
+                  },
+                  "01.08.05.07.": {
+                    "text": "Rauchwärmeabzugsanlage (RWA)",
+                    "children": {}
+                  },
+                  "01.08.05.09.": {
+                    "text": "Kühldecke",
+                    "children": {}
+                  },
+                  "01.08.05.10.": {
+                    "text": "Kreislaufverbundsystem",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.09.": {
+            "text": "Starkstromanlagen",
+            "children": {
+              "01.09.01.": {
+                "text": "Hoch- und Mittelspannungsanlagen",
+                "children": {
+                  "01.09.01.01.": {
+                    "text": "Schaltanlage, Feld exkl. Lasttrennschalter",
+                    "children": {}
+                  },
+                  "01.09.01.02.": {
+                    "text": "Lastschalter (Komponente)",
+                    "children": {}
+                  },
+                  "01.09.01.04.": {
+                    "text": "Schaltanlage",
+                    "children": {}
+                  },
+                  "01.09.01.05.": {
+                    "text": "Trocken-Transformatoren",
+                    "children": {}
+                  },
+                  "01.09.01.07.": {
+                    "text": "Öl-Transformatoren",
+                    "children": {}
+                  }
+                }
+              },
+              "01.09.02.": {
+                "text": "Eigenstromversorgungsanlagen",
+                "children": {
+                  "01.09.02.01.": {
+                    "text": "Netzersatzanlage-Diesel inkl. Tagestank, inkl. Starter- / Steuerbatterie, inkl. Steuerung",
+                    "children": {}
+                  },
+                  "01.09.02.05.": {
+                    "text": "Blockheizkraftwerk (stromgeführt)",
+                    "children": {}
+                  },
+                  "01.09.02.06.": {
+                    "text": "Batterieanlagen mit/ohne Batteriemanagementsystem",
+                    "children": {}
+                  },
+                  "01.09.02.10.": {
+                    "text": "USV-Anlage",
+                    "children": {}
+                  },
+                  "01.09.02.16.": {
+                    "text": "Anlagen (exkl. Wechselrichter)",
+                    "children": {}
+                  },
+                  "01.09.02.19.": {
+                    "text": "Wechselrichter",
+                    "children": {}
+                  }
+                }
+              },
+              "01.09.03.": {
+                "text": "Niederspannungsschaltanlagen",
+                "children": {
+                  "01.09.03.01.": {
+                    "text": "Niederspannungshauptverteiler, Feld exkl. Lastschalter",
+                    "children": {}
+                  },
+                  "01.09.03.02.": {
+                    "text": "Niederspannungshauptverteiler",
+                    "children": {}
+                  },
+                  "01.09.03.05.": {
+                    "text": "Blindstromkompensationsanlagen",
+                    "children": {}
+                  },
+                  "01.09.03.07.": {
+                    "text": "Maximumüberwachungsanlagen",
+                    "children": {}
+                  }
+                }
+              },
+              "01.09.04.": {
+                "text": "Niederspannungsinstallationsanlagen",
+                "children": {
+                  "01.09.04.01.": {
+                    "text": "Kabel",
+                    "children": {}
+                  },
+                  "01.09.04.02.": {
+                    "text": "Leitungen",
+                    "children": {}
+                  },
+                  "01.09.04.03.": {
+                    "text": "Unterverteiler (inkl. Potenzialausgleich)",
+                    "children": {}
+                  },
+                  "01.09.04.06.": {
+                    "text": "NS-Unterverteiler",
+                    "children": {}
+                  },
+                  "01.09.04.07.": {
+                    "text": "Verlegesysteme",
+                    "children": {}
+                  },
+                  "01.09.04.08.": {
+                    "text": "Installationsgeräte",
+                    "children": {}
+                  }
+                }
+              },
+              "01.09.05.": {
+                "text": "Beleuchtungsanlagen",
+                "children": {
+                  "01.09.05.01.": {
+                    "text": "Ortsfeste Leuchten",
+                    "children": {}
+                  },
+                  "01.09.05.02.": {
+                    "text": "Sicherheitsbeleuchtungsanlage",
+                    "children": {}
+                  },
+                  "01.09.05.07.": {
+                    "text": "Sicherheitsleitsysteme",
+                    "children": {}
+                  },
+                  "01.09.05.10.": {
+                    "text": "Ampelanlage",
+                    "children": {}
+                  }
+                }
+              },
+              "01.09.06.": {
+                "text": "Blitzschutz- und Erdungsanlagen",
+                "children": {
+                  "01.09.06.01.": {
+                    "text": "Äußerere Blitzschutz (inkl. Auffangeinrichtungen, Ableitungen, Erdungen)",
+                    "children": {}
+                  },
+                  "01.09.06.02.": {
+                    "text": "Innerer Blitzschutz (Potenzialausgleich)",
+                    "children": {}
+                  }
+                }
+              },
+              "01.09.07.": {
+                "text": "Starkstromanlagen, sonstiges",
+                "children": {
+                  "01.09.07.01.": {
+                    "text": "Ladestation",
+                    "children": {}
+                  },
+                  "01.09.07.05.": {
+                    "text": "Frequenzumformer",
+                    "children": {}
+                  },
+                  "01.09.07.06.": {
+                    "text": "Begleitheizung",
+                    "children": {}
+                  },
+                  "01.09.07.07.": {
+                    "text": "Taubenabwehranlage (elektrisch) - Weidenzaunprinzip",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.10.": {
+            "text": "Fernmelde- und informationstechnische Anlagen - Die einzelnen Anlagen enthalten die zugehörigen Verteiler, Kabel, Leitungen.",
+            "children": {
+              "01.10.01.": {
+                "text": "Telekommunikationsanlagen",
+                "children": {
+                  "01.10.01.01.": {
+                    "text": "TK-Verteiler",
+                    "children": {}
+                  }
+                }
+              },
+              "01.10.02.": {
+                "text": "Such- und Signalanlagen",
+                "children": {
+                  "01.10.02.01.": {
+                    "text": "Personenrufanlagen",
+                    "children": {}
+                  },
+                  "01.10.02.02.": {
+                    "text": "Lichtruf- und Klingelanlage",
+                    "children": {}
+                  },
+                  "01.10.02.03.": {
+                    "text": "Sprechstellen inkl. Zentraleinheit, Türöffner, Kamera, Monitor",
+                    "children": {}
+                  }
+                }
+              },
+              "01.10.03.": {
+                "text": "Zeitdienstanlagen",
+                "children": {
+                  "01.10.03.01.": {
+                    "text": "Uhrenanlagen",
+                    "children": {}
+                  },
+                  "01.10.03.02.": {
+                    "text": "Zeiterfassungsanlagen",
+                    "children": {}
+                  }
+                }
+              },
+              "01.10.04.": {
+                "text": "Elektroakustische Anlagen",
+                "children": {
+                  "01.10.04.01.": {
+                    "text": "Elektroakustische Anlagen",
+                    "children": {}
+                  },
+                  "01.10.04.02.": {
+                    "text": "Lautsprecher",
+                    "children": {}
+                  }
+                }
+              },
+              "01.10.05.": {
+                "text": "Fernseh- und Antennenanlagen",
+                "children": {
+                  "01.10.05.01.": {
+                    "text": "Antennenanlage (Stabantenne, Parabolspiegelantenne)",
+                    "children": {}
+                  },
+                  "01.10.05.03.": {
+                    "text": "Verstärker",
+                    "children": {}
+                  },
+                  "01.10.05.04.": {
+                    "text": "Verteiler/Dosen",
+                    "children": {}
+                  }
+                }
+              },
+              "01.10.06.": {
+                "text": "Gefahrenmelde- und Alarmanlagen",
+                "children": {
+                  "01.10.06.01.": {
+                    "text": "Brandmeldeanlage",
+                    "children": {}
+                  },
+                  "01.10.06.02.": {
+                    "text": "Unterzentrale",
+                    "children": {}
+                  },
+                  "01.10.06.03.": {
+                    "text": "Signalgeber",
+                    "children": {}
+                  },
+                  "01.10.06.05.": {
+                    "text": "Druckknopfmelder",
+                    "children": {}
+                  },
+                  "01.10.06.06.": {
+                    "text": "Rauchmelder",
+                    "children": {}
+                  },
+                  "01.10.06.10.": {
+                    "text": "Wärmemelder",
+                    "children": {}
+                  },
+                  "01.10.06.13.": {
+                    "text": "RAS",
+                    "children": {}
+                  },
+                  "01.10.06.14.": {
+                    "text": "Überfallmeldeanlage",
+                    "children": {}
+                  },
+                  "01.10.06.17.": {
+                    "text": "Einbruchmeldeanlage",
+                    "children": {}
+                  },
+                  "01.10.06.20.": {
+                    "text": "Gas-Warnanlage",
+                    "children": {}
+                  },
+                  "01.10.06.24.": {
+                    "text": "Leckagewarnanlage",
+                    "children": {}
+                  },
+                  "01.10.06.26.": {
+                    "text": "Zugangskontrollanlage",
+                    "children": {}
+                  },
+                  "01.10.06.29.": {
+                    "text": "Videoüberwachungsanlage",
+                    "children": {}
+                  }
+                }
+              },
+              "01.10.07.": {
+                "text": "Übertragungsnetze",
+                "children": {
+                  "01.10.07.01.": {
+                    "text": "BOS-Anlage",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.11.": {
+            "text": "Förderanlagen",
+            "children": {
+              "01.11.01.": {
+                "text": "Aufzugsanlagen",
+                "children": {
+                  "01.11.01.01.": {
+                    "text": "Personenaufzug mit",
+                    "children": {}
+                  },
+                  "01.11.01.17.": {
+                    "text": "Lastenaufzug mit",
+                    "children": {}
+                  },
+                  "01.11.01.33.": {
+                    "text": "Kleingüteraufzug mit",
+                    "children": {}
+                  },
+                  "01.11.01.35.": {
+                    "text": "Treppenlifte",
+                    "children": {}
+                  }
+                }
+              },
+              "01.11.02.": {
+                "text": "Fahrtreppen, Fahrsteige",
+                "children": {
+                  "01.11.02.01.": {
+                    "text": "Fahrtreppe, Fahrsteig (ohne brandschutztechnische Reinigung)",
+                    "children": {}
+                  }
+                }
+              },
+              "01.11.03.": {
+                "text": "Befahranlagen - Fassadenaufzüge und andere Befahranlagen",
+                "children": {
+                  "01.11.03.01.": {
+                    "text": "Befahranlagen",
+                    "children": {}
+                  }
+                }
+              },
+              "01.11.04.": {
+                "text": "Krananlagen - Einschließlich Hebezeuge",
+                "children": {
+                  "01.11.04.01.": {
+                    "text": "Brückenkran",
+                    "children": {}
+                  },
+                  "01.11.04.05.": {
+                    "text": "Deckenkran",
+                    "children": {}
+                  },
+                  "01.11.04.08.": {
+                    "text": "Einträgerhängekran",
+                    "children": {}
+                  },
+                  "01.11.04.10.": {
+                    "text": "Portalkran",
+                    "children": {}
+                  },
+                  "01.11.04.12.": {
+                    "text": "Zweiträgerhängekran",
+                    "children": {}
+                  },
+                  "01.11.04.14.": {
+                    "text": "Schwenkkran",
+                    "children": {}
+                  }
+                }
+              },
+              "01.11.05.": {
+                "text": "Förderanlagen, sonstiges",
+                "children": {
+                  "01.11.05.01.": {
+                    "text": "Hebebühne",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.12.": {
+            "text": "Nutzungsspezifische Anlagen",
+            "children": {
+              "01.12.01.": {
+                "text": "Feuerlöschanlagen - Sprinkler-, Gaslöschanlagen, Löschwasserleitungen, Wandhydranten, Handfeuerlöscher",
+                "children": {
+                  "01.12.01.01.": {
+                    "text": "Steigleitung mit Einspeisung",
+                    "children": {}
+                  },
+                  "01.12.01.03.": {
+                    "text": "Entnahmestelle'- Entnahmestelle in der Steigleitung",
+                    "children": {}
+                  },
+                  "01.12.01.04.": {
+                    "text": "Hydranten",
+                    "children": {}
+                  },
+                  "01.12.01.07.": {
+                    "text": "Nasstrockenstation",
+                    "children": {}
+                  },
+                  "01.12.01.08.": {
+                    "text": "Druckerhöhungsanlagen",
+                    "children": {}
+                  },
+                  "01.12.01.09.": {
+                    "text": "Sprinkleranlagen",
+                    "children": {}
+                  },
+                  "01.12.01.11.": {
+                    "text": "Sprinklerpumpen",
+                    "children": {}
+                  },
+                  "01.12.01.13.": {
+                    "text": "Nassalarmventilstationen (NAV)",
+                    "children": {}
+                  },
+                  "01.12.01.14.": {
+                    "text": "Trockenalarmventilstation (TAV)",
+                    "children": {}
+                  },
+                  "01.12.01.15.": {
+                    "text": "Handfeuerlöscher",
+                    "children": {}
+                  },
+                  "01.12.01.31.": {
+                    "text": "Gaslöschanlagen",
+                    "children": {}
+                  },
+                  "01.12.01.43.": {
+                    "text": "Küchen-Löschanlagen - Ansul",
+                    "children": {}
+                  }
+                }
+              },
+              "01.12.02.": {
+                "text": "Entsorgungsanlagen - Abfall- und Medienentsorgungsanlagen, Staubsauganlagen",
+                "children": {
+                  "01.12.02.01.": {
+                    "text": "Müllpressen und Container - kraftbetrieben",
+                    "children": {}
+                  },
+                  "01.12.02.03.": {
+                    "text": "Papierpresse und Container - kraftbetrieben",
+                    "children": {}
+                  },
+                  "01.12.02.04.": {
+                    "text": "Nassmüllentsorgung",
+                    "children": {}
+                  },
+                  "01.12.02.05.": {
+                    "text": "Abfallzerkleinerungsanlage",
+                    "children": {}
+                  },
+                  "01.12.02.06.": {
+                    "text": "Sonderabfallentsorgungsanlagen",
+                    "children": {}
+                  },
+                  "01.12.02.07.": {
+                    "text": "Recyclinganlagen",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "01.13.": {
+            "text": "Gebäudeautomation - Kosten der anlageübergreifenden Automation",
+            "children": {
+              "01.13.01.": {
+                "text": "Automationssysteme",
+                "children": {
+                  "01.13.01.01.": {
+                    "text": "Automationsstationen mit Bedien- und Beobachtungseinrichtungen, GA-Funktionen Automationsebene",
+                    "children": {}
+                  },
+                  "01.13.01.02.": {
+                    "text": "Automationsebene",
+                    "children": {}
+                  },
+                  "01.13.01.03.": {
+                    "text": "Feldebene",
+                    "children": {}
+                  },
+                  "01.13.01.05.": {
+                    "text": "Raumautomationssystem (BUS-System)",
+                    "children": {}
+                  }
+                }
+              },
+              "01.13.02.": {
+                "text": "Schaltschränke",
+                "children": {
+                  "01.13.02.01.": {
+                    "text": "GA-Schaltschränke",
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
