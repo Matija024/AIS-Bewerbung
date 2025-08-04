@@ -1,6 +1,8 @@
-# EP-Katalog Mapping Projekt
+# AIS Bewerbungsprojekt - EP-Katalog Mapping & Vollständigkeitsprüfung
 
-Dieses Projekt mappt Einträge aus einer Kundendatei auf den EP-Katalog und weist Artikelnummern zu.
+Dieses Projekt umfasst zwei Hauptkomponenten:
+1. **EP-Katalog Mapping**: Mappt Einträge aus einer Kundendatei auf den EP-Katalog und weist Artikelnummern zu
+2. **Vollständigkeitsprüfung**: Analysiert Gebäudeinstallationen und identifiziert fehlende Komponenten
 
 ## 📁 Projektstruktur
 
@@ -28,6 +30,7 @@ AIS_task/
 │   ├── run_pipeline.py                     # Master-Skript
 │   └── README.md                           # Detaillierte Dokumentation
 ├── requirements.txt                        # Python-Abhängigkeiten
+├── AIS_Bewerbungspraesentation_Matija_Roncevic.pptx  # Projektpräsentation
 └── README.md                               # Diese Übersicht
 ```
 
@@ -53,6 +56,9 @@ AIS_task/
 4. **Ergebnisse:**
    - **EP_mapping**: Finale Kundendatei mit Artikelnummern in `cvs/kundendatei_final.xlsx`
    - **Completeness_check**: Vollständigkeitsprüfung in `Completeness_check/03_final_results.xlsx`
+
+5. **Präsentation:**
+   - **AIS_Bewerbungspraesentation_Matija_Roncevic.pptx**: Vollständige Projektpräsentation
 
 ## 📋 Voraussetzungen
 
